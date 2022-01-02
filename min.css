@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&family=Roboto+Mono:wght@300&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+}
+.s1{
+	background:linear-gradient(#370665,rgb(42, 149, 211));
+
+}
+.s2{
+	margin: 0;
+	padding: 0;
+	background: rgb(42, 149, 211);
+}
+.s3{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: white;
+	background:linear-gradient(rgb(42, 149, 211),rgb(51, 51, 51));
+}
+.s4{
+	background:linear-gradient(rgb(51, 51, 51),rgb(51, 51, 51));
+
+}
+
+
+
+
+.foto{
+	margin-top: -50px;
+	margin-left: -50px;
+
+}
+.white-text{
+	font-family: 'Licorice', cursive;
+	margin-top: 100px;
+}
+.tbl{
+	padding: 7px;
+	background: #7900FF;
+	font-size: 17px;
+	border: none;
+	border-radius: 10px;
+}
+.tbl:hover{
+	box-shadow: 0 0 10px white,0 0 20px white,0 0 30px white;
+	text-shadow: 0 0 10px white,0 0 20px white;
+}
+.tbl a {
+	text-decoration: none;
+	list-style: none;
+	color: white;
+}
+
+.fp-slidesNav.fp-bottom {
+    bottom: 17px;
+    margin-left: 50% !important;
+}
+.a1 h2{
+	color: white;
+	text-align: center;
+	font-family: 'Moon Dance', cursive;
+	font-size: 60px;
+}
+.a1 p {
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.a2 h2{
+	color: white;
+	text-align: center;
+	font-family: 'Moon Dance', cursive;
+	font-size: 60px;
+}
+.a2 p {
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.a3 h2{
+	color: white;
+	text-align: center;
+	font-family: 'Moon Dance', cursive;
+	font-size: 60px;
+}
+.a3 p {
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.a3 a{
+	color: yellow;
+
+}
+.material-icons{
+	font-size: 4rem;
+}
+.page-footer{
+	background:rgb(51, 51, 51) ;
+}
